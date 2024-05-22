@@ -1,8 +1,5 @@
-![image](https://github.com/charliethomasct82/PowerBI_Financial_Complain/assets/93368865/7ed1a6ce-7e7f-4dfe-9873-4f08ad360c7a)
-
-
-# PowerBI_Financial_Complain
-## Power BI Project: Financial Complaints Overview Dashboard
+![image](https://github.com/charliethomasct82/PowerBI_Financial_Complain/assets/93368865/a268dd23-e31f-4d85-94f6-a4bb3993dfa4)
+# Power BI Project: Financial Complaints Summary Dashboard
 ### Problem Statement:
 The objective of this project is to develop a comprehensive Power BI dashboard that provides an overview of financial complaints received by a company. The dashboard aims to monitor key performance indicators (KPIs) related to complaint handling and resolution, as well as visualize complaint data to identify trends, patterns, and areas for improvement.
 Key Performance Indicators (KPIs) Requirement:
