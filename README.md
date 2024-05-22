@@ -1,3 +1,6 @@
+![image](https://github.com/charliethomasct82/PowerBI_Financial_Complain/assets/93368865/7ed1a6ce-7e7f-4dfe-9873-4f08ad360c7a)
+
+
 # PowerBI_Financial_Complain
 ## Power BI Project: Financial Complaints Overview Dashboard
 ### Problem Statement:
